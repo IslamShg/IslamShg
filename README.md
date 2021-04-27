@@ -7,11 +7,8 @@
 <h2>Владею технологиями:</h2>
 <b>HTML5 & CSS3 & Bootstrap4</b>
 <br><b>JavaScript/ES6</b>
-<br><b>GIT</b>
-<br><b></b>
-<br><b></b>
+<br><b>React & Webpack & Parcel</b>
 
- 
 <h2>Моё портфолио:</h2>  
 
 ❎<b>Excel Clone. Написан на чистом JavaScript. </b> 

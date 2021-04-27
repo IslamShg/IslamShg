@@ -6,6 +6,6 @@
  
 Моё портфолио:  
 ❎<b>Excel Clone. Написан на чистом JavaScript. </b> </br>
-  Код: https://github.com/IslamShg/excel												
-	Демо: https://islamshg.github.io/excel/
+<br>Код: https://github.com/IslamShg/excel										
+<br>Демо: https://islamshg.github.io/excel/
 ❎Amazon Clone. Написан на React.

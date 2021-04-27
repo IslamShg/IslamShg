@@ -24,6 +24,6 @@
 <h2>Связаться со мной</h2>
 <ul>
   <li>+79659647340</li>
-  <li>instagramm: <b>@shagaeww</b></li>
-  <li>telegram: <b>@islamshg </b></li>
+  <li>Instagram: <b>@shagaeww</b></li>
+  <li>Telegram: <b>@islamshg </b></li>
 </ul>

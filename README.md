@@ -5,7 +5,6 @@
 -->
 
 <h2> Навыки </h2>
-<b>Владею технологиями:</b>
 <br><b>- HTML5 & CSS3 & Bootstrap4</b>
 <br><b>- JavaScript / ES6</b>
 <br><b>- ReactJS & Webpack & Parcel</b>

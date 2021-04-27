@@ -2,7 +2,14 @@
 
 <!--
 **IslamShg/IslamShg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profi
--->  
+-->
+
+<b>Связаться со мной</b>
+<ul>
+  <li>1</li>
+  <li>1</li>
+  <li>1</li>
+</ul>
 
 <h2>Владею технологиями:</h2>
 <b>HTML5 & CSS3 & Bootstrap4</b>

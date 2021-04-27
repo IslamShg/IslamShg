@@ -10,7 +10,7 @@
 <br><b>➖ & Webpack & Parcel</b>
 <br><b>➖ ReactJS</b>
 
-<h2>Моё портфолио:</h2>  
+<h2>Моё портфолио: 🛠</h2>  
 
 <b>➖Excel Clone. Написан на чистом JavaScript. </b> 
 <br>Код: https://github.com/IslamShg/excel										

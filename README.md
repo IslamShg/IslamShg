@@ -6,7 +6,7 @@
 
 <h2>Навыки ⚙ </h2>
 <b>➖ HTML5 & CSS3 & Bootstrap4</b>
-<br><b>➖ JavaScript / ES6</b>
+<br><b>➖ JavaScript / ES6 & Git</b>
 <br><b>➖ Webpack & Parcel</b>
 <br><b>➖ ReactJS</b>
 

@@ -5,7 +5,7 @@
 -->  
 
 <h2>Владею технологиями:</h2>
-<br><b>HTML5 & CSS3 & Bootstrap4</b>
+<b>HTML5 & CSS3 & Bootstrap4</b>
 <br><b>JavaScript/ES6</b>
 <br><b>GIT</b>
 <br><b></b>

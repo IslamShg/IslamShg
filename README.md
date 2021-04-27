@@ -13,8 +13,8 @@
 <h2>Моё портфолио 🛠</h2>  
 
 <b>❎ Excel Clone. Написан на чистом JavaScript </b> 
-<br><b>[Репозиторий и код](https://github.com/IslamShg/excel)</b>		
-<br><b>[Демо](https://islamshg.github.io/excel/)</b>
+<br><b>-[Репозиторий и код](https://github.com/IslamShg/excel)</b>		
+<br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 
 <b>❎ Amazon Clone. ReactJS</b>
 <br>Код:

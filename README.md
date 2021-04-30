@@ -16,7 +16,7 @@
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 
-<b>❎ Amazon Clone. ReactJS</b>
+<b>❎ Amazon Clone(With payment). ReactJS</b>
 <br><b>-[Код](https://github.com/IslamShg/amazon-clone)</b>
 <br><b>-[Демо](https://clone-8b7ee.web.app/)</b>
 

@@ -17,8 +17,8 @@
 <br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 
 <b>❎ Amazon Clone. ReactJS</b>
-<br><b>-[Код]()</b>
-<br><b>-[Демо]()</b>
+<br><b>-[Код](https://github.com/IslamShg/amazon-clone)</b>
+<br><b>-[Демо](https://clone-8b7ee.web.app/)</b>
 
 <h2>Контакты </h2>
 <ul>

@@ -12,11 +12,11 @@
 
 <h2>Портфолио 🛠</h2>  
 
-<b>❎ Excel Clone. Написан на чистом JavaScript </b> 
+<b>❎ Excel Clone. JavaScript</b> 
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 
-<b>❎ Amazon Clone. ReactJS веб-приложение</b>
+<b>❎ Amazon Clone. ReactJS</b>
 <br><b>-[Код]()</b>
 <br><b>-[Демо]()</b>
 

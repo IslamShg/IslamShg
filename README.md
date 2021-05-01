@@ -25,5 +25,6 @@
 <ul>
   <li><b>+79659647340</b></li>
   <li>Instagram: <b>@shagaeww</b></li>
+  <li>Email: <b>islam-shagaev@mail.ru </b></li>
   <li>Telegram: <b>@islamshg </b></li>
 </ul>

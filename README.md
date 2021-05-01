@@ -5,7 +5,7 @@
 -->
 
 <h2>Навыки ⚙ </h2>
-<b>➖ Свободное владение английским языком</b>
+<b>➖ English level: Advanced</b>
 <br><b>➖ HTML5 & CSS3(SCSS, Bootstrap4)</b>
 <br><b>➖ JavaScript / ES6 & Git</b>
 <br><b>➖ Webpack & Parcel</b>

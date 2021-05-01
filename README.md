@@ -5,7 +5,8 @@
 -->
 
 <h2>Навыки ⚙ </h2>
-<b>➖ HTML5 & CSS3 & Bootstrap4</b>
+<b>➖ Свободное владение английским языком</b>
+<br<b>➖ HTML5 & CSS3(SCSS, Bootstrap4)</b>
 <br><b>➖ JavaScript / ES6 & Git</b>
 <br><b>➖ Webpack & Parcel</b>
 <br><b>➖ ReactJS</b>
@@ -17,7 +18,7 @@
 <br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 
 <b>❎ Amazon Clone(With payment). ReactJS</b>
-<br><b>-[Код](https://github.com/IslamShg/amazon-clone)</b>
+<br><b>-[Репозиторий и код](https://github.com/IslamShg/amazon-clone)</b>
 <br><b>-[Демо](https://clone-8b7ee.web.app/)</b>
 
 <h2>Контакты </h2>

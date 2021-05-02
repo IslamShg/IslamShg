@@ -21,6 +21,10 @@
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/amazon-clone)</b>
 <br><b>-[Демо](https://clone-8b7ee.web.app/)</b>
 
+<b>❎ WhatsApp Messenger(Firebase). ReactJS</b>
+<br><b>-[Репозиторий и код](https://github.com/IslamShg/amazon-clone)</b>
+<br><b>-[Демо](https://clone-8b7ee.web.app/)</b>
+
 <h2>Контакты 📧</h2>
 <ul>
   <li><b>+79659647340 (WhatsApp)</b></li>

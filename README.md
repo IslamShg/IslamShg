@@ -18,9 +18,9 @@
 <br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 
 <b>❎ Amazon Clone. ReactJS</b>
-<br><b>Card number for test - 4242 4242 4242 4242</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/amazon-clone)</b>
 <br><b>-[Демо](https://clone-8b7ee.web.app/)</b>
+<br>Card number for test - 4242 4242 4242 4242
 
 <b>❎ Slack-chat(Redux, Firebase). ReactJS</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/whatsapp-messenger)</b>

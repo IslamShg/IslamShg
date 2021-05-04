@@ -17,7 +17,8 @@
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 
-<b>❎ Amazon Clone(Test-card number-4242...). ReactJS</b>
+<b>❎ Amazon Clone. ReactJS</b>
+<br><b>Card number for test - 4242 4242 4242 4242</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/amazon-clone)</b>
 <br><b>-[Демо](https://clone-8b7ee.web.app/)</b>
 

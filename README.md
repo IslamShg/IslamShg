@@ -14,7 +14,7 @@
 <h2>Портфолио 🛠</h2>  
 
 <b>❎ Slack-chat(Redux, Firebase). ReactJS</b>
-<br><b>-[Репозиторий и код](https://github.com/IslamShg/whatsapp-messenger)</b>
+<br><b>-[Репозиторий и код](https://github.com/IslamShg/slack-chat)</b>
 <br><b>-[Демо]()</b>
 
 <b>❎ Excel Clone. JavaScript</b> 

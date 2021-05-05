@@ -23,7 +23,7 @@
 
 <b>❎ Amazon Clone(test card - 4242). ReactJS</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/amazon-clone)</b>
-<br><b>-[Демо](https://clone-8b7ee.web.app/)</b
+<br><b>-[Демо](https://clone-8b7ee.web.app/)</b>
 
 <h2>Контакты 📧</h2>
 <ul>

@@ -9,7 +9,7 @@
 <br><b>➖ HTML5 & CSS3(SCSS)</b>
 <br><b>➖ JavaScript / ES6 & Git</b>
 <br><b>➖ Webpack & Parcel</b>
-<br><b>➖ ReactJS</b>
+<br><b>➖ React & Redux</b>
 
 <h2>Портфолио 🛠</h2>  
 

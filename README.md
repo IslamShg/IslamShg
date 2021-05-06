@@ -15,7 +15,7 @@
 
 <b>❎ Slack-chat(Redux, Firebase). ReactJS</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/slack-chat)</b>
-<br><b>-[Демо]()</b>
+<br><b>-[Демо](https://slack-chat-f26e0.web.app/)</b>
 
 <b>❎ Excel Clone. JavaScript</b> 
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/excel)</b>		

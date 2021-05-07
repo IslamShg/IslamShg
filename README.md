@@ -28,7 +28,6 @@
 <h2>Контакты 📧</h2>
 <ul>
   <li><b>+79659647340 (WhatsApp)</b></li>
-  <li>Instagram: <b>@shagaeww</b></li>
   <li>Email: <b>islam-shagaev@mail.ru </b></li>
   <li>Telegram: <b>@islamshg </b></li>
 </ul>

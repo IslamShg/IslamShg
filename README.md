@@ -26,8 +26,8 @@
 <br><b>-[Демо](https://clone-8b7ee.web.app/)</b>
 
 <b>❎ Memories-app. React & Redux & MongoDB & REST API</b>
-<br><b>-[Репозиторий и код](https://github.com/IslamShg/amazon-clone)</b>
-<br><b>-[Демо](https://clone-8b7ee.web.app/)</b>
+<br><b>-[Репозиторий и код](https://github.com/IslamShg/memories-mern-app)</b>
+<br><b>-[Демо](https://adoring-villani-e66185.netlify.app/)</b>
 
 <h2>Контакты 📧</h2>
 <ul>

@@ -14,7 +14,7 @@
 
 <h2>Портфолио </h2>  
 
-<b>❎ Slack-chat(Redux, Firebase). ReactJS</b>
+<b>❎ Slack-chat. React & Redux & Firebase</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/slack-chat)</b>
 <br><b>-[Демо](https://slack-chat-f26e0.web.app/)</b>
 

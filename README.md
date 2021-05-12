@@ -18,7 +18,7 @@
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/slack-chat)</b>
 <br><b>-[Демо](https://slack-chat-f26e0.web.app/)</b>
 
-<b>❎ Excel Clone. JavaScript</b> 
+<b>❎ Excel Clone. JavaScript & Webpack</b> 
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 

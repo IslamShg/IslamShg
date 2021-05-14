@@ -24,7 +24,7 @@
 
 
 <b>❎ Memories-app. React & Redux & MongoDB & REST API</b>
-<br><b>-[Репозиторий и код](>https://github.com/IslamShg/memories-mern-app)</b>
+<br><b>-[Репозиторий и код](https://github.com/IslamShg/memories-mern-app)</b>
 <br><b>-[Демо](https://adoring-villani-e66185.netlify.app/)</b>
 
 <b>❎ Amazon Clone(test card - 4242). ReactJS</b>

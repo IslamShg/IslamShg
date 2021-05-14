@@ -14,15 +14,15 @@
 
 <h2>Портфолио </h2>  
 
-<b>❎ Slack-chat. React & Redux & Firebase</b>
+<b>➖ Slack-chat. React & Redux & Firebase</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/slack-chat)</b>
 <br><b>-[Демо](https://slack-chat-f26e0.web.app/)</b>
 
-<b>❎ Excel Clone. JavaScript & Webpack</b> 
+<b>➖ Excel Clone. JavaScript & Webpack</b> 
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 
-<b>❎ Amazon Clone(test card - 4242). ReactJS</b>
+<b>➖ Amazon Clone(test card - 4242). ReactJS</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/amazon-clone)</b>
 <br><b>-[Демо](https://clone-8b7ee.web.app/)</b>
 

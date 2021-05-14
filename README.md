@@ -14,11 +14,11 @@
 
 <h2>Портфолио </h2>  
 
-<b>➖ Slack-chat. React & Redux & Firebase</b>
+<b>➖ Slack-chat. React, Redux, Firebase</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/slack-chat)</b>
 <br><b>-[Демо](https://slack-chat-f26e0.web.app/)</b>
 
-<b>➖ Excel Clone. JavaScript & Webpack</b> 
+<b>➖ Excel Clone. JavaScript, Webpack, Eslint, Babel</b> 
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 

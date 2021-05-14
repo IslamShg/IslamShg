@@ -5,7 +5,7 @@
 -->
 
 <h2>Навыки  </h2>
-<b>➖ English level: Advanced</b>
+<b>➖ Свободное владение английским языком(Advanced)</b>
 <br><b>➖ HTML5 & CSS3(SCSS)</b>
 <br><b>➖ JavaScript / ES6 & Git</b>
 <br><b>➖ NodeJS & Express & Rest API</b>

@@ -25,7 +25,7 @@
 <br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 
 <b>➖ Todo-app. </b>
-<br><b>React, Context Api, Custom Hooks,Dark-mode, Firebase</b>
+<br><b>React, Context Api, Custom Hooks, Firebase</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/todois-app)</b>
 <br><b>-[Демо](https://todoist-islam.web.app/)</b>
 

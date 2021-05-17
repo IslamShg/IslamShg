@@ -20,7 +20,7 @@
 <br><b>-[Демо](https://slack-chat-f26e0.web.app/)</b>
 
 <b>➖ Excel Clone. </b> 
-<br><b>JavaScript, Webpack, Eslint, Babel</b>
+<br><b>JavaScript, OOP, Webpack, Flux</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 

@@ -24,10 +24,10 @@
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 
-<b>➖ Amazon Clone(test card - 4242). </b>
-<br><b>ReactJS, Stripe payment</b>
-<br><b>-[Репозиторий и код](https://github.com/IslamShg/amazon-clone)</b>
-<br><b>-[Демо](https://clone-8b7ee.web.app/)</b>
+<b>➖ Todo-app. </b>
+<br><b>React, Context Api, Custom Hooks, Firebase</b>
+<br><b>-[Репозиторий и код](https://github.com/IslamShg/todois-app)</b>
+<br><b>-[Демо](https://todoist-islam.web.app/)</b>
 
 <h2>Контакты</h2>
 <ul>

@@ -7,7 +7,7 @@
 <h2>Навыки  </h2>
 <b>➖ Уровень английского: C1+</b>
 <br><b>➖ HTML5 & CSS3(Scss, Sass)</b>
-<br><b>➖ JavaScript / ES6+ & Git</b>
+<br><b>➖ JavaScript(ES6+) & Git</b>
 <br><b>➖ NodeJS & Express & Rest API</b>
 <br><b>➖ Webpack & Parcel</b>
 <br><b>➖ React & Redux</b>

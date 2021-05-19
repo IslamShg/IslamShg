@@ -15,17 +15,17 @@
 <h2>Портфолио </h2>  
 
 <b>➖ Slack-chat.</b>
-<br><b> React, Redux, Firebase, Styled Components</b>
+<br><b> Used: React, Redux, Firebase, Styled Components</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/slack-chat)</b>
 <br><b>-[Демо](https://slack-chat-f26e0.web.app/)</b>
 
 <b>➖ Excel Clone. </b> 
-<br><b>JavaScript, OOP, Webpack, Flux</b>
+<br><b>Used: JavaScript, OOP, Webpack, Flux</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Демо](https://islamshg.github.io/excel/)</b>
 
 <b>➖ Todo-app. </b>
-<br><b>React, Context Api, Custom Hooks, Firebase</b>
+<br><b>Used: React, Context Api, Custom Hooks, Firebase</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/todois-app)</b>
 <br><b>-[Демо](https://todoist-islam.web.app/)</b>
 

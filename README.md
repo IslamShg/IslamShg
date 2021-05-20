@@ -30,7 +30,7 @@
 <br><b>-[Демо](https://todoist-islam.web.app/)</b>
 
 <b>➖ MERN application. </b>
-<br><b>Used: React, Redux, NodeJS(Express), Rest Api, MongoDB, Material UI</b>
+<br><b>Used: React, Redux(thunk), NodeJS(Express), Rest Api, MongoDB, Material UI</b>
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/MERN-React-app)</b>
 <br><b>-[Демо](В разработке)</b>
 

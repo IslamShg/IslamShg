@@ -29,6 +29,11 @@
 <br><b>-[Репозиторий и код](https://github.com/IslamShg/todois-app)</b>
 <br><b>-[Демо](https://todoist-islam.web.app/)</b>
 
+<b>➖ MERN application. </b>
+<br><b>Used: React, Redux, NodeJS(Express), Rest Api, MongoDB</b>
+<br><b>-[Репозиторий и код](https://github.com/IslamShg/MERN-React-app)</b>
+<br><b>-[Демо](В разработке)</b>
+
 <h2>Контакты</h2>
 <ul>
   <li><b>+79659647340 (WhatsApp)</b></li>

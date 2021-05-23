@@ -33,10 +33,10 @@
 <br><b>-[Repository and code](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Demo](https://islamshg.github.io/excel/)</b>
 
-<b>➖ Todo-app. </b>
+<!-- <b>➖ Todo-app. </b>
 <br><b>Used: React, Context Api, Custom Hooks, Firebase</b>
 <br><b>-[Repository and code](https://github.com/IslamShg/todois-app)</b>
-<br><b>-[Demo](https://todoist-islam.web.app/)</b>
+<br><b>-[Demo](https://todoist-islam.web.app/)</b> -->
 
 <b>➖ MERN application. </b>
 <br><b>Used: React, Redux(thunk), NodeJS(Express), Rest Api, MongoDB, Material UI</b>

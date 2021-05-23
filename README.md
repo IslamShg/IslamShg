@@ -9,7 +9,7 @@
 <h2>Soft skills</h2>
 <b>➖ Teamplayer</b>
 <br><b>➖ Proactive</b>
-<br><b>➖ Self-managment</b>
+<br><b>➖ Self-management</b>
 <br><b>➖ Learn & Improve</b>
 <br><b>➖ Communication</b>
 

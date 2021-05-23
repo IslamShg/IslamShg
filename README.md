@@ -15,7 +15,7 @@
 
 <h2>Special skills</h2>
 <b>➖ English: C1+</b>
-<br><b>➖ HTML5 & CSS3(Scss, Sass)</b>
+<br><b>➖ HTML5, CSS3, Scss, Sass, BEM</b>
 <br><b>➖ JavaScript(ES6+) & Git</b>
 <br><b>➖ NodeJS & Express & Rest API</b>
 <br><b>➖ Webpack & Parcel</b>

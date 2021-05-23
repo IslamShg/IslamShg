@@ -11,7 +11,7 @@
 <br><b>➖ Proactive</b>
 <br><b>➖ Self-managment</b>
 <br><b>➖ Learn & Improve</b>
-<br><b>➖ Communtication</b>
+<br><b>➖ Communication</b>
 
 <h2>Special skills</h2>
 <b>➖ English: C1+</b>

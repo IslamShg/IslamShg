@@ -45,7 +45,7 @@
 
 <h2>Contacts</h2>
 <ul>
-  <li><b>+79659647340 (WhatsApp)</b></li>
+  <li><b>+79659647340 (WhatsApp, Telegram)</b></li>
   <li>Email: <b>islamshg@mail.ru </b></li>
   <li>Telegram: <b>@islamshg </b></li>
 </ul>

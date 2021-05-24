@@ -6,13 +6,6 @@
 <h2> Education </h2>
 <b>Chechen State University. Faculty of Information Technologies | 2020-2024 (Second year distance learning student)🎓</b>
 
-<h2>Soft skills</h2>
-<b>➖ Teamplayer</b>
-<br><b>➖ Proactive</b>
-<br><b>➖ Self-management</b>
-<br><b>➖ Learn & Improve</b>
-<br><b>➖ Communication</b>
-
 <h2>Special skills</h2>
 <b>➖ English: C1+</b>
 <br><b>➖ HTML5, CSS3, Scss, Sass, BEM</b>

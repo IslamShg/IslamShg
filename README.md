@@ -36,6 +36,11 @@
 <br><b>-[Repository and code](https://github.com/IslamShg/MERN-React-app)</b>
 <br><b>-[Demo](In development)</b>
 
+<b>➖ Responsive layout. </b>
+<br><b>Used: HTML5, CSS3, Scss(Mixins), JS</b>
+<br><b>-[Repository and code](https://github.com/IslamShg/EasyBank-Layout)</b>
+<br><b>-[Demo](https://islamshg.github.io/EasyBank-Layout/)</b>
+
 <h2>Contacts</h2>
 <ul>
   <li><b>+79659647340 (WhatsApp, Telegram)</b></li>

@@ -18,12 +18,12 @@
 
 <b>➖ Slack-chat</b>
 <br><b> Used: React, Redux, Firebase, Styled Components</b>
-<br><b>-[Repository and code](https://github.com/IslamShg/slack-chat)</b>
+<br><b>-[Repository](https://github.com/IslamShg/slack-chat)</b>
 <br><b>-[Demo](https://slack-chat-f26e0.web.app/)</b>
 
 <b>➖ Excel Clone </b> 
 <br><b>Used: JavaScript, OOP, Webpack, Flux, Local Storage</b>
-<br><b>-[Repository and code](https://github.com/IslamShg/excel)</b>		
+<br><b>-[Repository](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Demo](https://islamshg.github.io/excel/)</b>
 
 <!-- <b>➖ Todo-app. </b>
@@ -33,12 +33,12 @@
 
 <b>➖ MERN application </b>
 <br><b>Used: React, Redux(thunk), NodeJS(Express), Rest Api, MongoDB, Material UI</b>
-<br><b>-[Repository and code](https://github.com/IslamShg/MERN-React-app)</b>
+<br><b>-[Repository](https://github.com/IslamShg/MERN-React-app)</b>
 <br><b>-[Demo](In development)</b>
 
 <b>➖ Responsive layout </b>
 <br><b>Used: Html5, Css3, Scss(Mixins), JavaScript</b>
-<br><b>-[Repository and code](https://github.com/IslamShg/EasyBank-Layout)</b>
+<br><b>-[Repository](https://github.com/IslamShg/EasyBank-Layout)</b>
 <br><b>-[Demo](https://islamshg.github.io/EasyBank-Layout/)</b>
 
 <h2>Contacts</h2>

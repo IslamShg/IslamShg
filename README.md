@@ -26,7 +26,6 @@
 <br><b><kbd>JavaScript</kbd> <kbd>OOP</kbd> <kbd>Webpack</kbd> <kbd>Flux</kbd> <kbd>Local Storage</kbd></b>
 <br><b>-[Repository](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Demo](https://islamshg.github.io/excel/)</b>
-<details>
 
 <!-- <b>➖ Todo-app. </b>
 <br><b>Used: React, Context Api, Custom Hooks, Firebase</b>
@@ -34,7 +33,7 @@
 <br><b>-[Demo](https://todoist-islam.web.app/)</b> -->
 
 <b>➖ MERN application </b>
-<br><b><kbd>React</kbd> <kbd>Redux(thunk)</kbd> <kbd>NodeJS(Express)</kbd> <kbd>Rest Api</kbd> <kbd>MongoDB</kbd> <kbd>Material UI</kbd></b>
+<br><b><kbd>React</kbd> <kbd>Redux(thunk)</kbd> <kbd>NodeJS(Express)</kbd> <kbd>Rest API</kbd> <kbd>MongoDB</kbd> <kbd>Material UI</kbd></b>
 <br><b>-[Repository](https://github.com/IslamShg/MERN-React-app)</b>
 <br><b>-[Demo](In development)</b>
 

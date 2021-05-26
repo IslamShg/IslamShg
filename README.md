@@ -1,6 +1,6 @@
 
 ### Education
-<b>Chechen State University. Faculty of Information Technologies | 2019-2023 . I am in my second year of correspondence course 🎓</b>
+<b>Chechen State University. Faculty of Information Technologies | I am in my second year of correspondence course 🎓</b>
 
 <!-- ![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamshg&show_icons=true&theme=radical&) -->
 

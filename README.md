@@ -3,6 +3,7 @@
 <!--
 **IslamShg/IslamShg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profi
 -->
+<h2>Hi, I am Islam Shagaev</h2>
 <h2> Education </h2>
 <b>Chechen State University. Faculty of Information Technologies | 2020-2024 (Second year distance learning student)🎓</b>
 
@@ -17,14 +18,15 @@
 <h2>Works </h2>  
 
 <b>➖ Slack-chat</b>
-<br><b> Used: React, Redux, Firebase, Styled Components</b>
+<br><b><kbd>React</kbd> <kbd>Redux</kbd> <kbd>Firebase</kbd> <kbd>Styled Components</kbd></b>
 <br><b>-[Repository](https://github.com/IslamShg/slack-chat)</b>
 <br><b>-[Demo](https://slack-chat-f26e0.web.app/)</b>
 
 <b>➖ Excel Clone </b> 
-<br><b>Used: JavaScript, OOP, Webpack, Flux, Local Storage</b>
+<br><b><kbd>JavaScript</kbd> <kbd>OOP</kbd> <kbd>Webpack</kbd> <kbd>Flux</kbd> <kbd>Local Storage</kbd></b>
 <br><b>-[Repository](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Demo](https://islamshg.github.io/excel/)</b>
+<details>
 
 <!-- <b>➖ Todo-app. </b>
 <br><b>Used: React, Context Api, Custom Hooks, Firebase</b>
@@ -32,12 +34,12 @@
 <br><b>-[Demo](https://todoist-islam.web.app/)</b> -->
 
 <b>➖ MERN application </b>
-<br><b>Used: React, Redux(thunk), NodeJS(Express), Rest Api, MongoDB, Material UI</b>
+<br><b><kbd>React</kbd> <kbd>Redux(thunk)</kbd> <kbd>NodeJS(Express)</kbd> <kbd>Rest Api</kbd> <kbd>MongoDB</kbd> <kbd>Material UI</kbd></b>
 <br><b>-[Repository](https://github.com/IslamShg/MERN-React-app)</b>
 <br><b>-[Demo](In development)</b>
 
 <b>➖ Responsive layout </b>
-<br><b>Used: Html5, Css3, Scss(Mixins), JavaScript</b>
+<br><b><kbd>Html5</kbd> <kbd>Css3</kbd> <kbd>Scss(Mixins)</kbd> <kbd>JavaScript</kbd></b>
 <br><b>-[Repository](https://github.com/IslamShg/EasyBank-Layout)</b>
 <br><b>-[Demo](https://islamshg.github.io/EasyBank-Layout/)</b>
 

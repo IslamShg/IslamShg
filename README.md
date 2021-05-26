@@ -1,21 +1,30 @@
-### 
-
-<!--
-**IslamShg/IslamShg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profi
--->
-<h2>Hi, I am Islam Shagaev</h2>
 <h2> Education </h2>
-<b>Chechen State University. Faculty of Information Technologies | 2020-2024 (Second year distance learning student)🎓</b>
+<b>Chechen State University. Faculty of Information Technologies | 2020-2024 . I am second year distance learning student 🎓</b>
 
-<h2>Special skills</h2>
-<b>➖ English: C1+</b>
-<br><b>➖ HTML5, CSS3, Scss, Sass, BEM</b>
-<br><b>➖ JavaScript(ES6+) & Git</b>
-<br><b>➖ NodeJS & Express & Rest API</b>
-<br><b>➖ Webpack & Parcel</b>
-<br><b>➖ React & Redux</b>
+<!-- ![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamshg&show_icons=true&theme=radical&) -->
 
-<h2>Works </h2>  
+## Special skills
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islamshg&layout=compact)](https://github.com/islamshg/github-readme-stats)
+
+
+## Works   
 
 <b>➖ Slack-chat</b>
 <br><b><kbd>React</kbd> <kbd>Redux</kbd> <kbd>Firebase</kbd> <kbd>Styled Components</kbd></b>
@@ -42,7 +51,7 @@
 <br><b>-[Repository](https://github.com/IslamShg/EasyBank-Layout)</b>
 <br><b>-[Demo](https://islamshg.github.io/EasyBank-Layout/)</b>
 
-<h2>Contacts</h2>
+## Connect with me
 <ul>
   <li><b>+79659647340 (WhatsApp, Telegram)</b></li>
   <li>Email: <b>islamshg@mail.ru </b></li>

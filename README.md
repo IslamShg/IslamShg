@@ -1,9 +1,10 @@
-<h2> Education </h2>
+
+### Education
 <b>Chechen State University. Faculty of Information Technologies | 2020-2024 . I am second year distance learning student 🎓</b>
 
 <!-- ![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamshg&show_icons=true&theme=radical&) -->
 
-## Special skills
+### Languages and Tools
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
@@ -24,7 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islamshg&layout=compact)](https://github.com/islamshg/github-readme-stats)
 
 
-## Works   
+### Works   
 
 <b>➖ Slack-chat</b>
 <br><b><kbd>React</kbd> <kbd>Redux</kbd> <kbd>Firebase</kbd> <kbd>Styled Components</kbd></b>
@@ -51,7 +52,7 @@
 <br><b>-[Repository](https://github.com/IslamShg/EasyBank-Layout)</b>
 <br><b>-[Demo](https://islamshg.github.io/EasyBank-Layout/)</b>
 
-## Connect with me
+### Connect with me
 <ul>
   <li><b>+79659647340 (WhatsApp, Telegram)</b></li>
   <li>Email: <b>islamshg@mail.ru </b></li>

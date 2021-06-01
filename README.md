@@ -39,20 +39,16 @@
 <br><b>-[Repository](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Demo](https://islamshg.github.io/excel/)</b>
 
-<!-- <b>➖ Todo-app. </b>
-<br><b>Used: React, Context Api, Custom Hooks, Firebase</b>
-<br><b>-[Repository and code](https://github.com/IslamShg/todois-app)</b>
-<br><b>-[Demo](https://todoist-islam.web.app/)</b> -->
-
-<b>➖ MERN application </b>
-<br><b><kbd>React</kbd> <kbd>Redux(thunk)</kbd> <kbd>NodeJS(Express)</kbd> <kbd>Rest API</kbd> <kbd>MongoDB</kbd> <kbd>Material UI</kbd></b>
-<br><b>-[Repository](https://github.com/IslamShg/MERN-React-app)</b>
-<br><b>-[Demo](In development)</b>
+<b>➖ Social-Network (In development) </b>
+<br><b><kbd>Typescript</kbd> <kbd>React</kbd> <kbd>Redux(thunk)</kbd> <kbd>ExpressJS</kbd> <kbd>Rest API</kbd> <kbd>MongoDB</kbd> </b>
+<br><b>-Repository: [Frontend](https://github.com/IslamShg/SocialNetwork-client) | [Server](https://github.com/IslamShg/SocialNetwork-server)</b>
+<br><b>-[Demo](https://master--pedantic-varahamihira-7008cb.netlify.app/)</b>
 
 <b>➖ Responsive layout </b>
 <br><b><kbd>Html5</kbd> <kbd>Css3</kbd> <kbd>Scss(Mixins)</kbd> <kbd>JavaScript</kbd></b>
 <br><b>-[Repository](https://github.com/IslamShg/EasyBank-Layout)</b>
 <br><b>-[Demo](https://islamshg.github.io/EasyBank-Layout/)</b>
+
 
 ### Connect with me
 <ul>

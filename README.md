@@ -40,7 +40,7 @@
 <br><b>-[Repository](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Demo](https://islamshg.github.io/excel/)</b>
 
-<b>➖ Social-Network </b>
+<b>➖ Social-Network (In development) </b>
 <br><b><kbd>Typescript</kbd> <kbd>React</kbd> <kbd>Redux(thunk)</kbd> <kbd>ExpressJS</kbd> <kbd>Rest API</kbd> <kbd>MongoDB</kbd> </b>
 <br><b>-Repository: [Frontend](https://github.com/IslamShg/SocialNetwork-client) | [Server](https://github.com/IslamShg/SocialNetwork-server)</b>
 <br><b>-[Demo](https://master--pedantic-varahamihira-7008cb.netlify.app/)</b>

@@ -49,7 +49,6 @@
 
 ### Connect with me
 <ul>
-  <li><b>+79659647340 (WhatsApp, Telegram)</b></li>
   <li>Email: <b>islamshg@mail.ru </b></li>
   <li>Telegram: <b>@islamshg </b></li>
   <li>Instagram: <b>@shagaeww </b></li>

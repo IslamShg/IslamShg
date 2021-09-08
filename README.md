@@ -57,5 +57,6 @@
   <li><b>+79659647340 (WhatsApp, Telegram)</b></li>
   <li>Email: <b>islamshg@mail.ru </b></li>
   <li>Telegram: <b>@islamshg </b></li>
-  <li>Instagram: <b>[shagaeww](https://www.instagram.com/shagaeww/) </b></li>
+  <li>Instagram: <b>[shagaeww](https://www.instagram.com/shagaeww) </b></li>
+ <li>[Demo](https://islamshg.github.io/EasyBank-Layout/)</li>
 </ul>

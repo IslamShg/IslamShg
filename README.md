@@ -49,7 +49,7 @@
 
 ### Connect with me
 <ul>
-  <li>Email: <b>islamshg@mail.ru </b></li>
+  <li>E-mail: <b>islamshg@mail.ru </b></li>
   <li>Telegram: <b>@islamshg </b></li>
   <li>Instagram: <b>@shagaeww </b></li>
 </ul>

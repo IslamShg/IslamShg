@@ -40,6 +40,7 @@
 <br><b><kbd>JavaScript</kbd> <kbd>OOP</kbd> <kbd>Webpack</kbd> <kbd>Flux</kbd> <kbd>Local Storage</kbd></b>
 <br><b>-[Repository](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Demo](https://islamshg.github.io/excel/)</b>
+
 <b>➖ Responsive layout </b>
 <br><b><kbd>Html5</kbd> <kbd>Css3</kbd> <kbd>Scss(Mixins)</kbd> <kbd>JavaScript</kbd></b>
 <br><b>-[Repository](https://github.com/IslamShg/EasyBank-Layout)</b>

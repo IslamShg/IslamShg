@@ -48,8 +48,9 @@
 
 
 ### Connect with me
-<p align="left">
  <a href="https://t.me/islamshg">	<img alt="Telegram" src="https://img.shields.io/badge/@islamshg-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+ <br>
+  <a href="islamshg@mail.ru/"><img alt="E-mail" src="https://img.shields.io/badge/islamshg@mail.ru-%23E4405F.svg?style=for-the-badge&logo=Inbox&logoColor=white"/></a>
 <a href="https://www.instagram.com/shagaeww/"><img alt="Instagram" src="https://img.shields.io/badge/@shagaeww-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
- <a href="islamshg@mail.ru/"><img alt="E-mail" src="https://img.shields.io/badge/islamshg@mail.ru-%23E4405F.svg?style=for-the-badge&logo=Mail&logoColor=white"/></a>
-</p>
+<br>
+

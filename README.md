@@ -1,4 +1,6 @@
 
+### About
+<b>18 y.o. Front-End developer from Russia, Grozny. Sharing my code and pet projects here.</b>
 ### Education
 <b>Chechen State University. Faculty of Information Technologies | I am in my second year of correspondence course 🎓</b>
 

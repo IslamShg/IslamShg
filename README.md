@@ -27,7 +27,7 @@
 <br>
 <hr>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islamshg&layout=compact&theme=dark)](https://github.com/islamshg/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islamshg&layout=compact&theme=dark)](https://github.com/islamshg/github-readme-stats)
  
 
 

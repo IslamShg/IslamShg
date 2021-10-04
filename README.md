@@ -4,8 +4,6 @@
 ## Education
 <b>Chechen State University. Faculty of Information Technologies. I am in my second year of correspondence course. Bachelor degree🎓</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamShg&&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Languages and Tools
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -27,10 +25,7 @@
 <br>
 <hr>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islamshg&layout=compact&theme=dark)](https://github.com/islamshg/github-readme-stats) -->
- 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamShg&&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Works   
 
 <b>➖ Slack-chat</b>

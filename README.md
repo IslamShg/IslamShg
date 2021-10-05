@@ -28,15 +28,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamShg&&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Works   
 
-<b>➖ Slack-chat</b>
-<br><b><kbd>React</kbd> <kbd>Redux</kbd> <kbd>Firebase</kbd> <kbd>Styled Components</kbd></b>
-<br><b>-[Repository](https://github.com/IslamShg/slack-chat)</b>
-<br><b>-[Demo](https://slack-chat-f26e0.web.app/)</b>
-
 <b>➖ Excel Clone </b> 
 <br><b><kbd>JavaScript</kbd> <kbd>OOP</kbd> <kbd>Webpack</kbd> <kbd>Flux</kbd> <kbd>Local Storage</kbd></b>
 <br><b>-[Repository](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Demo](https://islamshg.github.io/excel/)</b>
+
+<b>➖ Slack-chat</b>
+<br><b><kbd>React</kbd> <kbd>Redux</kbd> <kbd>Firebase</kbd> <kbd>Styled Components</kbd></b>
+<br><b>-[Repository](https://github.com/IslamShg/slack-chat)</b>
+<br><b>-[Demo](https://slack-chat-f26e0.web.app/)</b>
 
 <b>➖ Responsive layout </b>
 <br><b><kbd>Html5</kbd> <kbd>Css3</kbd> <kbd>Scss(Mixins)</kbd> <kbd>JavaScript</kbd></b>

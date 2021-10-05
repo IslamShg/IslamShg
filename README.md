@@ -2,7 +2,7 @@
 ## About
 <b>19 y.o. Front-End developer from Russia, Grozny. Sharing my code and pet projects here.</b>
 ## Education
-<b>Chechen State University. Faculty of Information Technologies. I am in my second year of correspondence course. Bachelor degree🎓</b>
+<b>Chechen State University. Faculty of Information Technologies.</b>
 
 ## Languages and Tools
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>

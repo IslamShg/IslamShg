@@ -28,7 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamShg&&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Works   
 
-<b>➖ Excel Clone </b> 
+<b>➖ Excel </b> 
 <br><b><kbd>JavaScript</kbd> <kbd>OOP</kbd> <kbd>Webpack</kbd> <kbd>Flux</kbd> <kbd>Local Storage</kbd></b>
 <br><b>-[Repository](https://github.com/IslamShg/excel)</b>		
 <br><b>-[Demo](https://islamshg.github.io/excel/)</b>

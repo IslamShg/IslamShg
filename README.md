@@ -38,12 +38,6 @@
 <br><b>-[Repository](https://github.com/IslamShg/slack-chat)</b>
 <br><b>-[Demo](https://slack-chat-f26e0.web.app/)</b>
 
-<b>➖ Responsive layout </b>
-<br><b><kbd>Html5</kbd> <kbd>Css3</kbd> <kbd>Scss(Mixins)</kbd> <kbd>JavaScript</kbd></b>
-<br><b>-[Repository](https://github.com/IslamShg/EasyBank-Layout)</b>
-<br><b>-[Demo](https://islamshg.github.io/EasyBank-Layout/)</b>
-
-
 ### Connect with me
  <a href="https://t.me/islamshg">	<img alt="Telegram" src="https://img.shields.io/badge/@islamshg-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
  <br/>

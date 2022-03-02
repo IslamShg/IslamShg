@@ -34,7 +34,7 @@
 <br><b>-[Demo](https://islamshg.github.io/excel/)</b>
 
 <b>➖ Slack-chat</b>
-<br><b><kbd>React</kbd> <kbd>Redux</kbd> <kbd>Firebase</kbd> <kbd>Typescript</kbd></b>
+<br><b><kbd>React</kbd> <kbd>Redux</kbd>  <kbd>Redux-Toolkit</kbd>  <kbd>Firebase</kbd> <kbd>Typescript</kbd> <kbd>Formik</kbd></b>
 <br><b>-[Repository](https://github.com/IslamShg/side-proj)</b>
 <br><b>-[Demo](https://side-proj-c6635.web.app/)</b>
 

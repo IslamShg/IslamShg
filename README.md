@@ -34,9 +34,9 @@
 <br><b>-[Demo](https://islamshg.github.io/excel/)</b>
 
 <b>➖ Slack-chat</b>
-<br><b><kbd>React</kbd> <kbd>Redux</kbd> <kbd>Firebase</kbd> <kbd>Styled Components</kbd></b>
-<br><b>-[Repository](https://github.com/IslamShg/slack-chat)</b>
-<br><b>-[Demo](https://slack-chat-f26e0.web.app/)</b>
+<br><b><kbd>React</kbd> <kbd>Redux</kbd> <kbd>Firebase</kbd> <kbd>Typescript</kbd></b>
+<br><b>-[Repository](https://github.com/IslamShg/side-proj)</b>
+<br><b>-[Demo](https://side-proj-c6635.web.app/)</b>
 
 ### Connect with me
  <a href="https://t.me/islamshg">	<img alt="Telegram" src="https://img.shields.io/badge/@islamshg-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>

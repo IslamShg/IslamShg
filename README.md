@@ -25,18 +25,6 @@
 
 [![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FIslamShg&logo=leetcode&logoColor=yellow)](https://leetcode.com/IslamShg/)
 
-### Works   
-
-<b>➖ Excel </b> 
-<br><b><kbd>JavaScript</kbd> <kbd>OOP</kbd> <kbd>Webpack</kbd> <kbd>Flux</kbd> <kbd>Local Storage</kbd></b>
-<br><b>-[Repository](https://github.com/IslamShg/excel)</b>		
-<br><b>-[Demo](https://islamshg.github.io/excel/)</b>
-
-<b>➖ Slack-chat</b>
-<br><b><kbd>React</kbd> <kbd>Redux</kbd>  <kbd>Redux-Toolkit</kbd>  <kbd>Firebase</kbd> <kbd>Typescript</kbd> <kbd>Formik</kbd></b>
-<br><b>-[Repository](https://github.com/IslamShg/side-proj)</b>
-<br><b>-[Demo](https://side-proj-c6635.web.app/)</b>
-
 ### Connect with me
  <a href="https://t.me/islamshg">	<img alt="Telegram" src="https://img.shields.io/badge/@islamshg-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
  <br/>

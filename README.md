@@ -1,6 +1,6 @@
 
 ## About
-<b>19 y.o. Front-End engineer from Russia. Sharing my code here.</b>
+<b>19 y.o. Front-End engineer. Sharing my code here.</b>
 ## Education
 <b>Chechen State University. Faculty of Information Technologies. Software engineering.</b>
 

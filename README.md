@@ -18,6 +18,7 @@
 <img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" />
 <img align="left" alt="Eslint" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/eslint/eslint.png" />
 <img align="left" alt="Jest" width="28px" style="margin-top: 40px;" src="https://cdn.iconscout.com/icon/free/png-256/jest-3629451-3031514.png" />
+<img align="left" width="17px"src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 <br>
 <hr>
 

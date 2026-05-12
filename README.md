@@ -1,9 +1,3 @@
-
-## About
-<b>23 y.o. Front-End engineer. Sharing my code here.</b>
-## Education
-<b>Chechen State University. Faculty of Information Technologies. Software engineering.</b>
-
 ## Languages and Tools
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -26,10 +20,3 @@
 ### Leetcode
 
 [![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FIslamShg&logo=leetcode&logoColor=yellow)](https://leetcode.com/IslamShg/)
-
-### Connect with me
- <a href="https://t.me/islamshg">	<img alt="Telegram" src="https://img.shields.io/badge/@islamshg-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
- <br/>
-  <a href="islamshg@mail.ru/"><img alt="E-mail" src="https://img.shields.io/badge/islamshg@mail.ru-%23E4405F.svg?style=for-the-badge&logo=Inbox&logoColor=white"/></a>
- <br/>
-<a href="https://www.instagram.com/shagaeww/"><img alt="Instagram" src="https://img.shields.io/badge/@shagaeww-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
